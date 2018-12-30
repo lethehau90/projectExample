@@ -1,0 +1,34 @@
+c:\users\admin\documents\visual studio 2015\Projects\Solution1\App.Model\bin\Debug\App.Model.dll
+c:\users\admin\documents\visual studio 2015\Projects\Solution1\App.Model\bin\Debug\App.Model.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Solution1\App.Model\obj\Debug\App.Model.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Solution1\App.Model\obj\Debug\App.Model.dll
+c:\users\admin\documents\visual studio 2015\Projects\Solution1\App.Model\obj\Debug\App.Model.pdb
+D:\WTR\WTR\App.Model\bin\Debug\App.Model.dll
+D:\WTR\WTR\App.Model\bin\Debug\App.Model.pdb
+D:\WTR\WTR\App.Model\obj\Debug\App.Model.csprojResolveAssemblyReference.cache
+D:\WTR\WTR\App.Model\obj\Debug\App.Model.dll
+D:\WTR\WTR\App.Model\obj\Debug\App.Model.pdb
+D:\Develop\Project\DeActive\ToolLateCheckTime\App.Model\bin\Debug\App.Model.dll
+D:\Develop\Project\DeActive\ToolLateCheckTime\App.Model\bin\Debug\App.Model.pdb
+D:\Develop\Project\DeActive\ToolLateCheckTime\App.Model\obj\Debug\App.Model.dll
+D:\Develop\Project\DeActive\ToolLateCheckTime\App.Model\obj\Debug\App.Model.pdb
+F:\FSOFT\WTR\App.Model\bin\Debug\App.Model.dll
+F:\FSOFT\WTR\App.Model\bin\Debug\App.Model.pdb
+F:\FSOFT\WTR\App.Model\obj\Debug\App.Model.csprojResolveAssemblyReference.cache
+F:\FSOFT\WTR\App.Model\obj\Debug\App.Model.dll
+F:\FSOFT\WTR\App.Model\obj\Debug\App.Model.pdb
+D:\HauLT6\ToolCheckTracking\App.Model\bin\Debug\App.Model.dll
+D:\HauLT6\ToolCheckTracking\App.Model\bin\Debug\App.Model.pdb
+D:\HauLT6\ToolCheckTracking\App.Model\obj\Debug\App.Model.csprojResolveAssemblyReference.cache
+D:\HauLT6\ToolCheckTracking\App.Model\obj\Debug\App.Model.dll
+D:\HauLT6\ToolCheckTracking\App.Model\obj\Debug\App.Model.pdb
+D:\Develop\Project\DeActive\ToolLateCheckTime\App.Model\obj\Debug\App.Model.csprojResolveAssemblyReference.cache
+D:\Develop\Drafs\ToolLateCheckTime\App.Model\bin\Debug\App.Model.dll
+D:\Develop\Drafs\ToolLateCheckTime\App.Model\bin\Debug\App.Model.pdb
+D:\Develop\Drafs\ToolLateCheckTime\App.Model\bin\Debug\AutoMapper.dll
+D:\Develop\Drafs\ToolLateCheckTime\App.Model\bin\Debug\AutoMapper.xml
+D:\Develop\Drafs\ToolLateCheckTime\App.Model\obj\Debug\App.Model.csprojAssemblyReference.cache
+D:\Develop\Drafs\ToolLateCheckTime\App.Model\obj\Debug\App.Model.csproj.CoreCompileInputs.cache
+D:\Develop\Drafs\ToolLateCheckTime\App.Model\obj\Debug\App.Model.csproj.CopyComplete
+D:\Develop\Drafs\ToolLateCheckTime\App.Model\obj\Debug\App.Model.dll
+D:\Develop\Drafs\ToolLateCheckTime\App.Model\obj\Debug\App.Model.pdb
